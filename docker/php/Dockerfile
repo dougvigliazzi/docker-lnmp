@@ -2,8 +2,8 @@
 FROM php:8.2.12-fpm-alpine3.18
 
 # Labels
-LABEL creatorName="Vagner dos Santos Cardoso"
-LABEL creatorEmail="vagnercardosoweb@gmail.com"
+LABEL creatorName="Douglas Vigliazzi"
+LABEL creatorEmail="dougvigliazzi@gmail.com"
 
 # Set timezone
 ENV TZ=${TZ:-UTC}
